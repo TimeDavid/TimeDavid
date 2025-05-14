@@ -1,8 +1,8 @@
 ```
- ____  __  _  _  ____  ____   __   _  _  __  ____   __    __   __  ____ 
-(_  _)(  )( \/ )(  __)(    \ / _\ / )( \(  )(    \ /  \  /  \ /  \(___ \
-  )(   )( / \/ \ ) _)  ) D (/    \\ \/ / )(  ) D ((  0 )(_/ /(_/ / / __/
- (__) (__)\_)(_/(____)(____/\_/\_/ \__/ (__)(____/ \__/  (__) (__)(____)
+ ____  __  _  _  ____  ____   __   _  _  __  ____  
+(_  _)(  )( \/ )(  __)(    \ / _\ / )( \(  )(    \ 
+  )(   )( / \/ \ ) _)  ) D (/    \\ \/ / )(  ) D (
+ (__) (__)\_)(_/(____)(____/\_/\_/ \__/ (__)(____/ 
 ```
 
 - **Discord:** `developer_html`
@@ -11,7 +11,7 @@
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TimeDavid0112)
 
 <p align="center">
-<img src="https://count.getloli.com/get/@TimeDavid0112?theme=rule34"/>
+<img src="https://count.getloli.com/get/@TimeDavid?theme=rule34"/>
 </p>
 
 <!--
